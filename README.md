@@ -1,24 +1,4 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Pour ce projet, je vais essayer de faire un blog, qui figurera sur le lien: "vergoz.xyz".
+Je souhaite y mettre mes avancées sur les langages de programmaton ainsi que mes projets.
+Je pense utiliser Ruby (RubyOnRail) + SASS 
